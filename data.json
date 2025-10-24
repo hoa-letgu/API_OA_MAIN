@@ -1,0 +1,261 @@
+[
+    {
+        "id_form": "APHCON26",
+        "id_pkg": "PKG16144014570607",
+        "ui_en": "Adjusting machinery",
+        "ui_cn": "校正(称重设备、测量设备）",
+        "ui_vn": "Hiệu chỉnh máy móc"
+    },
+    {
+        "id_form": "APHCON25",
+        "id_pkg": "PKG16119094971741",
+        "ui_en": "Form please fix the mold",
+        "ui_cn": "模具发外维修申请",
+        "ui_vn": "Xin sửa chữa khuôn"
+    },
+    {
+        "id_form": "APHCON24",
+        "id_pkg": "PKG16119744704221",
+        "ui_en": "Please repair supplies(Production machinery equipment,...)",
+        "ui_cn": "物品发外维修申请 (生产机器设备、空压机、输送带)",
+        "ui_vn": "Xin sửa chữa vật tư (Thiết bị máy móc sản xuất, máy nén khí, băng chuyền tải)"
+    },
+    {
+        "id_form": "APHCON22",
+        "id_pkg": "PKG16144007490741",
+        "ui_en": "Please repair the machine",
+        "ui_cn": "物品发外维修申请",
+        "ui_vn": "Xin sửa chữa vật tư"
+    },
+    {
+        "id_form": "APHCON23",
+        "id_pkg": "PKG16144011493302",
+        "ui_en": "Please repair the machine(Electronic device)",
+        "ui_cn": "物品发外维修申请 (电子设备)",
+        "ui_vn": "Sửa chữa vật tư (Thiết bị điện tử)"
+    },
+    {
+        "id_form": "CCTV",
+        "id_pkg": "PKG17395907516271",
+        "ui_en": "CCTV",
+        "ui_cn": "CCTV",
+        "ui_vn": "CCTV"
+    },
+    {
+        "id_form": "INTERNET",
+        "id_pkg": "PKG15847516900141_clone",
+        "ui_en": "Internet application form",
+        "ui_cn": "申请使用互联网的呈报单",
+        "ui_vn": "Tờ trình xin sử dụng internet"
+    },
+    {
+        "id_form": "MESOA",
+        "id_pkg": "PKG16856761205369_clone",
+        "ui_en": "Registration MES/OA",
+        "ui_cn": "注册 MES/OA",
+        "ui_vn": "Đăng ký MES/OA"
+    },
+    {
+        "id_form": "APESAPWEIHU",
+        "id_pkg": "PKG16662504711931_clone",
+        "ui_en": "SAP账号维护",
+        "ui_cn": "SAP账号维护",
+        "ui_vn": "Tài khoản/ phân quyền SAP"
+    },
+    {
+        "id_form": "SHARE_FOLDER_PRINTER",
+        "id_pkg": "PKG15850221752311_clone",
+        "ui_en": "Share folder application",
+        "ui_cn": "申请共享数据及打印机的呈报单",
+        "ui_vn": "Tờ trình xin CSDL & máy in"
+    },
+    {
+        "id_form": "SWDM01",
+        "id_pkg": "PKG16674397771631_clone",
+        "ui_en": "Software Developing/Maintenance Requirements",
+        "ui_cn": "系统变更维护 (APH) ",
+        "ui_vn": "Yêu Cầu Phát Triển / Bảo Trì Phần Mềm"
+    },
+    {
+        "id_form": "USB",
+        "id_pkg": "PKG15911648826941_clone",
+        "ui_en": "USB application form",
+        "ui_cn": "USB application form",
+        "ui_vn": "Tờ trình xin sử dụng USB"
+    },
+    {
+        "id_form": "UserEmail",
+        "id_pkg": "PKG15923790587230",
+        "ui_en": "User and email requisition form",
+        "ui_cn": "用户及邮箱创建申请表",
+        "ui_vn": "Tờ trình tạo user và email"
+    },
+    {
+        "id_form": "APECI01",
+        "id_pkg": "PKGCI01",
+        "ui_en": "Kaizen proposal registration form",
+        "ui_cn": "改善—登记",
+        "ui_vn": "Phiếu đề xuất ý tưởng Kaizen"
+    },
+    {
+        "id_form": "WH002",
+        "id_pkg": "PKGWH002",
+        "ui_en": "Stationery WH Receiving",
+        "ui_cn": "文具仓领料申请表",
+        "ui_vn": "Phiếu tiếp nhận kho VPP"
+    },
+    {
+        "id_form": "APHBT52",
+        "id_pkg": "PKG16449109792244_clone",
+        "ui_en": "Go aboard",
+        "ui_cn": "申请国外出差",
+        "ui_vn": "Đi công tác nước ngoài "
+    },
+    {
+        "id_form": "APHBT50",
+        "id_pkg": "PKG16448961040121_clone",
+        "ui_en": "Going on a business trip in the country (From Deputy Director or more)",
+        "ui_cn": "國內出差 (经副理级以上、含副理)",
+        "ui_vn": "Đi công tác trong nước (Từ P.GĐ trở lên, gồm P.GĐ)"
+    },
+    {
+        "id_form": "APHBT49",
+        "id_pkg": "PKG16448936210413_clone",
+        "ui_en": "Going on a business trip in the country (From the head of the department down)",
+        "ui_cn": "國內出差 (部长以下，含部长)",
+        "ui_vn": "Đi công tác trong nước (Từ trưởng phòng trở xuống, gồm trưởng phòng)"
+    },
+    {
+        "id_form": "APHBT51",
+        "id_pkg": "PKG16449079993416_clone",
+        "ui_en": "Going on a business trip in the country (Need to book a hotel, flight ticket...etc)",
+        "ui_cn": "國內出差 (需訂酒店、購買機票…等) ",
+        "ui_vn": "Đi công tác trong nước (Cần đặt khách sạn, vé may bay…vv)"
+    },
+    {
+        "id_form": "APHCO57",
+        "id_pkg": "PKG16449949326853_clone",
+        "ui_en": "Demand unit application",
+        "ui_cn": "需求单位申请",
+        "ui_vn": "Đơn vị đề xuất công trình"
+    },
+    {
+        "id_form": "APHCO58",
+        "id_pkg": "PKG164499848958010_clone",
+        "ui_en": "Demand unit application (directly related to production workshop or bottom factory Layout)",
+        "ui_cn": "需求单位申请  (与生产车间或底厂Layout有直接关联)",
+        "ui_vn": "Đơn vị đề xuất công trình (Liên quan về layout sản xuất)"
+    },
+    {
+        "id_form": "APHCO59",
+        "id_pkg": "PKG16450583402439_clone",
+        "ui_en": "The construction department proposes to find a contractor",
+        "ui_cn": "建筑部提出发外申请",
+        "ui_vn": "Bộ phận công trình đề xuất kiếm nhà thầu"
+    },
+    {
+        "id_form": "APHSP39",
+        "id_pkg": "PKG16154325527461_clone",
+        "ui_en": "Material accesories",
+        "ui_cn": "申请批量报废原材料 (剩余材料)",
+        "ui_vn": "Báo phế nguyên phụ liệu"
+    },
+    {
+        "id_form": "APHSP44",
+        "id_pkg": "PKG16191594077629_clone",
+        "ui_en": "Monthly destroy request",
+        "ui_cn": "每月匯總報廢",
+        "ui_vn": "Báo phế tháng"
+    },
+    {
+        "id_form": "APHSP46",
+        "id_pkg": "PKG16419511671366_clone",
+        "ui_en": "Report fixed assets",
+        "ui_cn": "固定资产报废申请签呈",
+        "ui_vn": "Báo phế tài sản cố định"
+    },
+    {
+        "id_form": "APHSP40",
+        "id_pkg": "PKG16154328600372_clone",
+        "ui_en": "Report scraps (Cancellation)",
+        "ui_cn": "申请批量报废原材料 (订单取消)",
+        "ui_vn": "Báo phế NVL (Hủy đơn)"
+    },
+    {
+        "id_form": "APHSP45",
+        "id_pkg": "PKG16419699026571_clone",
+        "ui_en": "Report shoes finished",
+        "ui_cn": "申请批量报废成品鞋签呈",
+        "ui_vn": "Báo phế giày thành phẩm "
+    },
+    {
+        "id_form": "APHSP43",
+        "id_pkg": "PKG16191527787953_clone",
+        "ui_en": "Semi-finished(Component)",
+        "ui_cn": "申请报废半成品 (部件)",
+        "ui_vn": "Báo phế bán thành phẩm (bộ kiện)"
+    },
+    {
+        "id_form": "APHSP42",
+        "id_pkg": "PKG16190762524781_clone",
+        "ui_en": "Semi-finished(Sole)",
+        "ui_cn": "申请报废半成品 (底)",
+        "ui_vn": "Báo phế bán thành phẩm (đế)"
+    },
+    {
+        "id_form": "APHSP42",
+        "id_pkg": "PKG16154331692423_clone",
+        "ui_en": "Semi-finished(Upper)",
+        "ui_cn": "申请报废半成品 (面)",
+        "ui_vn": "Báo phế bán thành phẩm (Mặt giày)"
+    },
+    {
+        "id_form": "APHHR01",
+        "id_pkg": "PKG16476558281021_clone",
+        "ui_en": "Form recruitment",
+        "ui_cn": "申请报废半成品 (面)",
+        "ui_vn": "Tờ trình tuyển dụng"
+    },
+    {
+        "id_form": "APHHR02",
+        "id_pkg": "PKG17279231568341",
+        "ui_en": "Training report",
+        "ui_cn": "培训报告",
+        "ui_vn": "Báo cáo đào tạo"
+    },
+    {
+        "id_form": "APHPU19",
+        "id_pkg": "PKG16074787524851_clone",
+        "ui_en": "Air Conditioner Purchase",
+        "ui_cn": "空調申購",
+        "ui_vn": "Đặt Mua Máy Lạnh"
+    },
+    {
+        "id_form": "APHPU12",
+        "id_pkg": "PKG15921935787208_clone",
+        "ui_en": "Order Chemical Production Materials",
+        "ui_cn": "空調申購",
+        "ui_vn": "ĐMVLSX hóa chất, loại đóng gói"
+    },
+    {
+        "id_form": "APHPU07",
+        "id_pkg": "PKG15916927335281_clone",
+        "ui_en": "Order Electronics Computer Audio",
+        "ui_cn": "申购电子设备 (电脑设备、音响设备…等",
+        "ui_vn": "ĐM TBĐT Máy Tính Âm Thanh"
+    },
+    {
+        "id_form": "APHPU08",
+        "id_pkg": "PKG159177634480810_clone",
+        "ui_en": "Order Electronics Monitoring",
+        "ui_cn": "订购电子监控系统设备",
+        "ui_vn": "ĐMTBĐT Hệ thống giám sát"
+    },
+    {
+        "id_form": "APHPU07",
+        "id_pkg": "",
+        "ui_en": "Order Electronics Monitoring",
+        "ui_cn": "",
+        "ui_vn": ""
+    },
+]
