@@ -252,10 +252,38 @@
         "ui_vn": "ĐMTBĐT Hệ thống giám sát"
     },
     {
-        "id_form": "APHPU07",
-        "id_pkg": "",
-        "ui_en": "Order Electronics Monitoring",
-        "ui_cn": "",
-        "ui_vn": ""
+        "id_form": "APHPU09",
+        "id_pkg": "PKG15916948173050_clone",
+        "ui_en": "Order Electronics Rent Printer",
+        "ui_cn": "申购电子设备 (租赁打印机)",
+        "ui_vn": "ĐMTBĐT Thuê máy in"
+    },
+    {
+        "id_form": "APHPU15",
+        "id_pkg": "PKG15930685523686",
+        "ui_en": "Order Machine Accessories",
+        "ui_cn": "申购机器零配件签呈 ",
+        "ui_vn": "Đặt mua linh kiện phụ kiện máy móc"
+    },
+    {
+        "id_form": "APHPU16",
+        "id_pkg": "PKG15967029612081_clone",
+        "ui_en": "Order additional Mold (Costs paid customers)",
+        "ui_cn": "追加模具申请 (客人付费) ",
+        "ui_vn": "Đặt thêm Khuôn (Chi phí khách hàng trả)"
+    },
+    {
+        "id_form": "APHPU17",
+        "id_pkg": "PKG15967805965132_clone",
+        "ui_en": "Order additional Mold (Factory cost to pay)",
+        "ui_cn": "追加模具申请 (我司需要承担费用)",
+        "ui_vn": "Đặt thêm Khuôn (Chi phí nhà máy  trả)"
+    },
+    {
+        "id_form": "APHPU05",
+        "id_pkg": "PKG15919263111541",
+        "ui_en": "Order fixed assets Machinery equipment",
+        "ui_cn": "申购固定资产",
+        "ui_vn": " ĐMTSCĐ máy móc thiết bị"
     },
 ]
